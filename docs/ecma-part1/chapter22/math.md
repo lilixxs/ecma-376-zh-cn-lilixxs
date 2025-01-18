@@ -161,6 +161,8 @@ End of informative text.
 
 === "中文"
 
+    "Elements 元素"
+
 === "英文"
 
     "Elements"
@@ -177,6 +179,8 @@ End of informative text.
 
 === "中文"
 
+    "accPr (Accent 属性)"
+
 === "英文"
 
     "accPr (Accent Properties)"
@@ -184,6 +188,8 @@ End of informative text.
 ### 22.1.2.3 aln (Alignment)
 
 === "中文"
+
+    "aln (对齐)"
 
 === "英文"
 
@@ -201,6 +207,8 @@ End of informative text.
 
 === "中文"
 
+    "argPr (参数属性)"
+    
 === "英文"
 
     "argPr (Argument Properties)"
@@ -208,6 +216,8 @@ End of informative text.
 ### 22.1.2.6 argSz (Argument Size)
 
 === "中文"
+
+    "argSz (参数数量)"
 
 === "英文"
 
@@ -224,6 +234,8 @@ End of informative text.
 ### 22.1.2.8 barPr (Bar Properties)
 
 === "中文"
+
+    "barPr (Bar 对象属性)"
 
 === "英文"
 
@@ -249,6 +261,8 @@ End of informative text.
 
 === "中文"
 
+    "borderBox (Border-Box 对象)"
+
 === "英文"
 
     "borderBox (Border-Box Object)"
@@ -256,6 +270,8 @@ End of informative text.
 ### 22.1.2.12 borderBoxPr (Border-Box Properties)
 
 === "中文"
+
+    "borderBoxPr (Border-Box 对象属性)"
 
 === "英文"
 
@@ -265,6 +281,8 @@ End of informative text.
 
 === "中文"
 
+    "box (Box 对象)"
+
 === "英文"
 
     "box (Box Object)"
@@ -272,6 +290,8 @@ End of informative text.
 ### 22.1.2.14 boxPr (Box Properties)
 
 === "中文"
+
+    "boxPr (Box 属性)"
 
 === "英文"
 
@@ -281,6 +301,8 @@ End of informative text.
 
 === "中文"
 
+    "brk (Break 对象)"
+
 === "英文"
 
     "brk (Break)"
@@ -288,6 +310,8 @@ End of informative text.
 ### 22.1.2.16 brkBin (Break on Binary Operators)
 
 === "中文"
+
+    "brkBin (Break on Binary Operators)"
 
 === "英文"
 
